@@ -24,7 +24,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                 </Merging>
                 <Embedding />
             </Assembly>
@@ -36,7 +36,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -50,7 +50,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -64,7 +64,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -78,7 +78,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -92,7 +92,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -106,7 +106,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -120,7 +120,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -134,7 +134,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -148,7 +148,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -162,7 +162,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -176,7 +176,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -190,7 +190,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -204,7 +204,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -218,7 +218,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -232,7 +232,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -360,7 +360,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -374,7 +374,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -388,7 +388,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -402,7 +402,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -416,7 +416,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                 </Merging>
                 <Embedding Embed="1" />
@@ -429,7 +429,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -449,7 +449,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -465,7 +465,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                 </Merging>
                 <Embedding />
             </Assembly>
@@ -477,7 +477,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -491,7 +491,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -505,7 +505,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -519,7 +519,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -533,7 +533,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -547,7 +547,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -561,7 +561,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -575,7 +575,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -589,7 +589,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -603,7 +603,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -617,7 +617,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -631,7 +631,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>
@@ -645,7 +645,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -659,7 +659,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -673,7 +673,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression />
                 </Merging>
@@ -687,7 +687,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
                     <MemberRefsProxy Proxy="1" />
                     <ResourcesCompression Compress="1" />
                 </Merging>

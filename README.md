@@ -1,5 +1,4 @@
 # Microsoft Toolkit
 source code repository
 
-missing folder (Activation): https://github.com/CODYQX4/Activation/
-
+Build requires SmartAssembly 6.0.0.0
